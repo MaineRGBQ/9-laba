@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\WpfApp42\bin\Debug\WpfApp42.exe.config
+C:\Users\user\Desktop\WpfApp42\bin\Debug\WpfApp42.exe
+C:\Users\user\Desktop\WpfApp42\bin\Debug\WpfApp42.pdb
+C:\Users\user\Desktop\WpfApp42\obj\Debug\WpfApp42.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WpfApp42\obj\Debug\WpfApp42.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\WpfApp42\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\WpfApp42\obj\Debug\App.g.cs
+C:\Users\user\Desktop\WpfApp42\obj\Debug\WpfApp42_MarkupCompile.cache
+C:\Users\user\Desktop\WpfApp42\obj\Debug\WpfApp42_MarkupCompile.lref
+C:\Users\user\Desktop\WpfApp42\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\WpfApp42\obj\Debug\WpfApp42.g.resources
+C:\Users\user\Desktop\WpfApp42\obj\Debug\WpfApp42.Properties.Resources.resources
+C:\Users\user\Desktop\WpfApp42\obj\Debug\WpfApp42.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WpfApp42\obj\Debug\WpfApp42.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WpfApp42\obj\Debug\WpfApp42.exe
+C:\Users\user\Desktop\WpfApp42\obj\Debug\WpfApp42.pdb
